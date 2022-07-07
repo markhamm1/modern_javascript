@@ -17,7 +17,7 @@
   "homepage": "https://github.com/markhamm1/modern_javascript#readme",
   "dependencies": {
     "date": "^1.0.2",
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@babel/core": "^7.11.0",
